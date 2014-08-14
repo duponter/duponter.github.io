@@ -18,13 +18,12 @@ author:
 pages_list:
   About:          '/about'
   Archive:        '/archive'
-  Feed:           '/atom.xml'
 follow_me_list:
-  googleplus:     https://plus.google.com/
-  linkedin:       https://www.linkedin.com/
-  twitter:        https://twitter.com/
-  rss:            '/atom.xml'
   email:          mailto:x.y@mail.com
+  rss:            '/atom.xml'
+  twitter:        https://twitter.com/
+  linkedin:       https://www.linkedin.com/
+  googleplus:     https://plus.google.com/
 
 # Custom vars
 version:          1.0.0

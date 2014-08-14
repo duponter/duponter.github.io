@@ -12,15 +12,14 @@
 
             {% for page in site.pages_list %}
             &nbsp;&nbsp;&nbsp;
-            <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+            <small><a href="{{ page[1]  }}" title="{{ page[0] }}">{{ page[0] }}</a></small>
             {% endfor %}
         </h3>
         <h3 class="masthead-title">
             <small>{{ site.tagline }}</small>
 
             {% for follow_me in site.follow_me_list %}
-            &nbsp;&nbsp;&nbsp;
-            <small><a href="{{ follow_me[1]  }}"><img src="/public/img/default/{{ follow_me[0] }}-black.png"/></a></small>
+            <small>&nbsp;<a href="{{ follow_me[1]  }}"><img src="/public/img/default/{{ follow_me[0] }}-black.png"/></a></small>
             {% endfor %}
         </h3>
     </div>

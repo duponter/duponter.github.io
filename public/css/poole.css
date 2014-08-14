@@ -320,6 +320,10 @@ tbody tr:nth-child(odd) th {
   letter-spacing: 0;
 }
 
+.masthead-title small a img {
+    float: right;
+    margin-left: 1rem;
+}
 
 /*
  * Posts and pages
