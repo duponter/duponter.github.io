@@ -19,11 +19,21 @@ pages_list:
   About:          '/about'
   Archive:        '/archive'
 follow_me_list:
-  email:          mailto:x.y@mail.com
-  rss:            '/atom.xml'
-  twitter:        https://twitter.com/
-  linkedin:       https://www.linkedin.com/
-  googleplus:     https://plus.google.com/
+  email:
+    href:         mailto:x.y@mail.com
+    title:        Send me an email
+  rss:
+    href:         '/atom.xml'
+    title:        Subscribe to my RSS feed
+  twitter:
+    href:         https://twitter.com/
+    title:        Follow me on Twitter
+  linkedin:
+    href:         https://www.linkedin.com/
+    title:        Follow me on LinkedIn
+  googleplus:
+    href:         https://plus.google.com/
+    title:        Follow me on Google+
 
 # Custom vars
 version:          1.0.0
