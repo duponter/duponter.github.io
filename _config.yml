@@ -6,21 +6,27 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Erwin's Blog
+tagline:          Beauty Is in Simplicity
+url:              http://duponter.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
+  name:           Erwin Dupont
   url:            https://twitter.com/mdo
   email:          markdotto@gmail.com
 pages_list:
   About:          '/about'
   Archive:        '/archive'
   Feed:           '/atom.xml'
+follow_me_list:
+  googleplus:     https://plus.google.com/
+  linkedin:       https://www.linkedin.com/
+  twitter:        https://twitter.com/
+  rss:            '/atom.xml'
+  email:          mailto:x.y@mail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/duponter/duponter.github.io

@@ -13,10 +13,10 @@ As with the Collections API in Java 2, a flowchart existed to choose the best fi
 ### Images
 
 Basic Flow
-![Basic Flow](/public/img/java8_function_flowchart_basic.jpg "Basic Java 8 Function Flowchart")
+![Basic Flow](/public/img/2014/08/15/function-flowchart/java8_function_flowchart_basic.jpg "Basic Java 8 Function Flowchart")
 
 Extended Flow
-![Extended Flow](/public/img/java8_function_flowchart_extended.jpg "Extended Java 8 Function Flowchart")
+![Extended Flow](/public/img/2014/08/15/function-flowchart/java8_function_flowchart_extended.jpg "Extended Java 8 Function Flowchart")
 
 ### Code
 
