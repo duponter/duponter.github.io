@@ -7,7 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Erwin's Blog
-tagline:          Beauty Is in Simplicity
+tagline1:         A good way to stay flexible is to write less code.
+tagline2:         --Pragmatic Programmer
 url:              http://duponter.github.io
 paginate:         1
 baseurl:          /
@@ -16,8 +17,8 @@ author:
   url:            https://twitter.com/mdo
   email:          markdotto@gmail.com
 pages_list:
-  About:          '/about'
   Archive:        '/archive'
+  About:          '/about'
 follow_me_list:
   email:
     href:         mailto:x.y@mail.com
