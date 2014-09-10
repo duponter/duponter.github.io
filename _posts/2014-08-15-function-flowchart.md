@@ -4,9 +4,11 @@ title: Java Function Flowchart
 comments: True
 ---
 
+At last, with my first blog live and this post published, I've reached a personal milestone. With this blog, I hope to share thoughts and insights about Java related subjects. But also, I want to learn new things from your comments and suggestions. So, without further ado, enjoy.
+
 Once in three Java SE versions, a major one is released, with either lots of new classes, like the introduction of the Collections API in Java 2 or syntactic changes, when Java 5 introduced Generics. Java 8 SE, however, introduces both with a new Streams API and a renewed DateTime API and syntax changes with the lambda expressions and method references. To keep up with all these changes, one has to do a lot of reading and, of course, experimenting.
 
-Java 8 introduces a new package <a href="http://docs.oracle.com/javase/8/docs/api/java/util/function/package-summary.html" target="_blank">java.util.function</a> which contains 43 new Functional Interfaces to target lamba expressions and method references.
+Java 8 introduces a new package <a href="http://docs.oracle.com/javase/8/docs/api/java/util/function/package-summary.html" target="_blank">java.util.function</a> which contains 43 new Functional Interfaces to target lambda expressions and method references.
 
 As with the Collections API in Java 2, a flowchart existed to choose the best fitting implementation.
 
