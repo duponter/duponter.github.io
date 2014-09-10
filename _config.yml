@@ -10,7 +10,7 @@ title:            Erwin's Blog
 tagline1:         A good way to stay flexible is to write less code.
 tagline2:         --Pragmatic Programmer
 url:              http://duponter.github.io
-paginate:         1
+paginate:         3
 baseurl:          /
 author:
   name:           Erwin Dupont
