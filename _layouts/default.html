@@ -17,10 +17,10 @@
             {% endfor %}
         </h3>
         <h3 class="masthead-title">
-            <small>{{ site.tagline1 }}</small>
+            <small><cite>{{ site.tagline1 }}</cite></small>
         </h3>
         <h3 class="masthead-title">
-            <small>{{ site.tagline2 }}</small>
+            <small><cite>{{ site.tagline2 }}</cite></small>
             {% for follow_me in site.follow_me_list %}
             <small>&nbsp;<a href="{{ follow_me[1].href  }}" title="{{ follow_me[1].title  }}"><img src="/public/img/default/{{ follow_me[0] }}-black.png"/></a></small>
             {% endfor %}
